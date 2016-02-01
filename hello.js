@@ -9,5 +9,6 @@ console.log('hello world');
 console.log('message');
 console.log('this is branch');
 function branch (int n) {
-  console.log('统计branch有多少条');
+  console.log('统计分支有多少条');
+  
 }
